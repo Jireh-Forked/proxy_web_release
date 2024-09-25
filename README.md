@@ -1,20 +1,19 @@
 # 谜之站点发布页
 
-站点目前可使用泛三级域名访问，*.host2.jireh.xyz
+站点目前可使用泛二级域名访问，*.561352.xyz
 
 例如：
 
-[prox1.host2.jireh.xyz](https://prox1.host2.jireh.xyz)
+[prox1.561352.xyz](https://prox1.561352.xyz)
 
-[prox2.host2.jireh.xyz](https://prox2.host2.jireh.xyz)
+[prox2.561352.xyz](https://prox2.561352.xyz)
 
-[prox3.host2.jireh.xyz](https://prox3.host2.jireh.xyz)
+[host.561352.xyz](https://host.561352.xyz)
 
-[vip.host2.jireh.xyz](https://vip.host2.jireh.xyz)
+[vip.561352.xyz](https://vip.561352.xyz)
 
-[nnn.host2.jireh.xyz](https://nnn.host2.jireh.xyz)
+[nnn.561352.xyz](https://nnn.561352.xyz)
 
-[lllqqss.host2.jireh.xyz](https://lllqqss.host2.jireh.xyz)
+[lllqqss.561352.xyz](https://lllqqss.561352.xyz)
 
 如有任何问题请联系邮箱：jeanxyz.012@gmail.com
-
